@@ -1,0 +1,4 @@
+#!/usr/local/bin/bash
+pfctl -d
+ifconfig em0 down
+ifconfig em0 up

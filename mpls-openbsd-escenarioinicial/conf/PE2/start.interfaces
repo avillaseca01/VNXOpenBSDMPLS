@@ -1,0 +1,32 @@
+#!/usr/local/bin/bash
+pfctl -d
+ifconfig lo1 alias 2.2.2.2 netmask 255.255.255.255
+ifconfig em2 10.1.2.2/24   
+ifconfig em2 mpls
+ifconfig em2 mtu 1530
+ifconfig em2 up
+ifconfig em0 up
+ifconfig em1 up
+ifconfig bridge0 create
+ifconfig bridge1 create
+ifconfig mpw0 create
+ifconfig mpw0 mtu 1530
+ifconfig mpw0 up
+ifconfig mpw2 create
+ifconfig mpw2 mtu 1530
+ifconfig mpw2 up
+ifconfig mpw3 create
+ifconfig mpw3 mtu 1530
+ifconfig mpw3 up
+ifconfig bridge0 add em0
+ifconfig bridge0 add mpw0
+ifconfig bridge0 add mpw2
+ifconfig bridge0 up
+ifconfig bridge1 add em1
+ifconfig bridge1 add mpw3
+ifconfig bridge1 up
+ifconfig bridge0 protected mpw0 1
+ifconfig bridge0 protected mpw2 1
+ifconfig bridge1 protected mpw3 1
+ospfd
+ldpd

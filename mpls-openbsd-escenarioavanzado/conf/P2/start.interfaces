@@ -1,0 +1,17 @@
+#!/usr/local/bin/bash
+pfctl -d
+ifconfig lo1 alias 12.12.12.12 netmask 255.255.255.255
+ifconfig em0 10.1.2.1/24   
+ifconfig em0 mpls
+ifconfig em0 mtu 1530
+ifconfig em0 up
+ifconfig em1 10.1.4.22/24
+ifconfig em1 mpls
+ifconfig em1 mtu 1530
+ifconfig em1 up
+ifconfig em2 10.1.5.22/24
+ifconfig em2 mpls
+ifconfig em2 mtu 1530
+ifconfig em2 up
+ospfd
+ldpd

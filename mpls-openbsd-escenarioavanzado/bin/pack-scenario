@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SCENARIO=vpls-openbsd.xml
+VERS='01'
+
+# Move to the directory where this script is
+#cdir=$( dirname $0 )
+#cd $cdir
+
+vnx --pack $SCENARIO \
+    --pack-version $VERS \
+    --pack-add-files bin \
+    $1 $2 $3
