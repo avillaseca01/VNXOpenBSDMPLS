@@ -15,11 +15,9 @@ Then, choose the option vnx_rootfs_kvm_openbsd64-7.2.qcow2.bz2  , **IMPORTANT ch
 
 # Network deployment
 
-To deploy the network, first we need to choose wich network we want to run. 
-
+To deploy the network, first we need to choose which network we want to run.
 ## Basic scenario
 To deploy the basic network you just need to run the next commands:
-
 ``` 
 cd mpls-openbsd-basic
 sudo vnx -f mpls-openbsd.xml -t
@@ -27,13 +25,12 @@ sudo vnx -f mpls-openbsd.xml -t
 
 ## Advanced scenario
 To deploy the advanced network you just need to run the next commands:
-
 ``` 
 cd mpls-openbsd-advanced
 sudo vnx -f mpls-openbsd.xml -t
 ```
 # Using the network
-Once you have the network deployed, first you have to login on every system with user: **root** and password: **xxxx**
+Once you have the network deployed, first you have to log in to every system with user: **root** and password: **xxxx**
 
 ## MPLS Routing tables
 To see the MPLS forwarding tables in openBSD you can use:
