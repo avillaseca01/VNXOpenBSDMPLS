@@ -19,7 +19,7 @@ sudo vnx_download_rootfs
 
 Then, choose the option vnx_rootfs_kvm_openbsd64-7.2.qcow2.bz2  , **IMPORTANT choose yes to create direct link rootfs_openbsd64**
 
-![Screenshot from 2024-01-07 11-53-42](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ea95cdfd-4add-46ec-aa70-25eba06021b1)
+![Screenshot from 2024-01-07 11-53-42](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ea95cdfd-4add-46ec-aa70-25eba06021b1){:width="50%"}
 
 
 ## Network deployment
