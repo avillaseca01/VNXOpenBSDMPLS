@@ -56,5 +56,6 @@ Here is the mapping of IP addresses to each system:
 
 Feel free to explore the routing tables and configurations to understand the MPLS networking setup in more detail.
 
+## Acknowledgements
 
-
+This project drew inspiration from [OpenBSD-ldpd VPLS Basic Test Setup](https://github.com/rwestphal/openbsd-ldpd/wiki/VPLS-basic-test-setup) and the MPLS laboratory in the RECO course.
