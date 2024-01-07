@@ -6,7 +6,9 @@ For the deployment of the scenarios, it is necessary to have the VNX software in
 Once we have installed VNX, we can download the filesystem with the command:
 ```sudo vnx_download_rootfs```
 
-Then, choose the option vnx_rootfs_kvm_openbsd64-7.2.qcow2.bz2  , **IMPORTANT say yes to create direct access rootfs**   
+Then, choose the option vnx_rootfs_kvm_openbsd64-7.2.qcow2.bz2  , **IMPORTANT say yes to create direct link rootfs** 
+![Screenshot from 2024-01-07 11-53-42](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ea95cdfd-4add-46ec-aa70-25eba06021b1)
+
 
 # Network deployment
 
