@@ -31,5 +31,5 @@ cd mpls-openbsd-advanced
 sudo vnx -f mpls-openbsd.xml -t
 ```
 # Using the network
-Once you have the network deployed, first you have to login on every system with **user:  root** and **password: xxxx**
+Once you have the network deployed, first you have to login on every system with user: **root** and password: **xxxx**
 
