@@ -14,10 +14,10 @@ To deploy the network, first we need to choose wich network we want to run.
 
 ## Basic scenario
 
-Acces to the folder mpls-openbsd-escenarioinicial and run:
-```sudo vnx -f mpls-openbsd.xml -t```
+```cd mpls-openbsd-basic
+sudo vnx -f mpls-openbsd.xml -t````
 
 ## Advanced scenario
 
-Acces to the folder mpls-openbsd-escenarioadvanzado and run:
-```sudo vnx -f mpls-openbsd.xml -t```
+```cd mpls-openbsd-advanced
+sudo vnx -f mpls-openbsd.xml -t```
