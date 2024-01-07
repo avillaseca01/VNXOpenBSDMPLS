@@ -59,4 +59,4 @@ Feel free to explore the routing tables and configurations to understand the MPL
 
 ## Acknowledgements
 
-This project drew inspiration from [OpenBSD-ldpd VPLS Basic Test Setup](https://github.com/rwestphal/openbsd-ldpd/wiki/VPLS-basic-test-setup) and the MPLS laboratory in the RECO course.
+This project drew inspiration from [OpenBSD-ldpd VPLS Basic Test Setup](https://github.com/rwestphal/openbsd-ldpd/wiki/VPLS-basic-test-setup) and the MPLS laboratory in the RECO course at ETSIT.
