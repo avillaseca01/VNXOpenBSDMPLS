@@ -31,6 +31,7 @@ To deploy the basic network you just need to run the next commands:
 cd mpls-openbsd-basic
 sudo vnx -f mpls-openbsd.xml -t
 ````
+![Screenshot from 2024-01-07 13-53-18](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ce5016a2-44c6-4b9c-a7bc-b95d1c5a3c9e)
 
 ### Advanced scenario
 To deploy the advanced network you just need to run the next commands:
@@ -38,6 +39,8 @@ To deploy the advanced network you just need to run the next commands:
 cd mpls-openbsd-advanced
 sudo vnx -f mpls-openbsd.xml -t
 ```
+![Screenshot from 2024-01-07 13-53-03](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/2e87008f-5461-46ef-b77f-271942c5d429)
+
 ## Using the network
 Once you have the network deployed, first you have to log in to every system with user: **root** and password: **xxxx**
 
