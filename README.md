@@ -31,7 +31,7 @@ To deploy the basic network you just need to run the next commands:
 cd mpls-openbsd-basic
 sudo vnx -f mpls-openbsd.xml -t
 ````
-![Screenshot from 2024-01-07 13-53-18](https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ce5016a2-44c6-4b9c-a7bc-b95d1c5a3c9e =250x250) 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ce5016a2-44c6-4b9c-a7bc-b95d1c5a3c9e" alt="Basic Network" width="50%" height="50%"> 
 
 ### Advanced scenario
 To deploy the advanced network you just need to run the next commands:
