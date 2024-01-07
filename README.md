@@ -1,4 +1,6 @@
 # Previous requierements
 ##  VNX Instalation
-Para el despliegue de los escenarios, se debe tener instalado previamente en nuestro sistema Linux el software VNX, puede seguir la guía de instalación en el siguiente enlace https://web.dit.upm.es/vnxwiki/index.php/Vnx-install
+For the deployment of the scenarios, it is necessary to have the VNX software installed on our Linux system beforehand. You can follow the installation guide at the following link: https://web.dit.upm.es/vnxwiki/index.php/Vnx-install
 
+## Dowload openBSD filesystems
+Once we have installed VNX, we can download the filesystem with the command
