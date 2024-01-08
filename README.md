@@ -33,6 +33,10 @@ sudo vnx -f mpls-openbsd.xml -t
 <p align="center">
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/ce5016a2-44c6-4b9c-a7bc-b95d1c5a3c9e" alt="Basic Network" width="50%" height="50%"> 
 </p>
+Wich gives us the result:
+<p align="center">
+<img src=https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/a3031b92-689a-451b-857f-04652b2a55a5) alt="Console 1Basic Network" width="50%" height="50%"> 
+</p>
 
 ### Advanced scenario
 To deploy the advanced network you just need to run the next commands:
