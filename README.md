@@ -35,10 +35,10 @@ sudo vnx -f mpls-openbsd.xml -t
 </p>
 Vhich gives us as a result:
 <p align="center">
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/a3031b92-689a-451b-857f-04652b2a55a5" alt="Console 1Basic Network" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/f81e3abb-aa1b-452d-9226-063a9121477e" alt="Console 1Basic Network" width="50%" height="50%"> 
 </p>
 <p align="center">
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5e57de83-3900-4008-b24c-1a190a765817" alt="Console 1Basic Network" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5e57de83-3900-4008-b24c-1a190a765817" alt="Console 2Basic Network" width="50%" height="50%"> 
 </p>
 
 ### Advanced scenario
