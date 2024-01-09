@@ -56,10 +56,9 @@ sudo vnx -f mpls-openbsd.xml -t
 
 Which gives us as a result:
 <p align="center">
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/03aa8ff5-898f-4a0a-b8e4-ea0586aec994" alt="Advanced Network console3" width="50%" height="50%"> 
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/6a39597b-298f-4a82-b012-3a6956e12537" alt="Advanced Network console1" width="50%" height="50%"> 
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5895b1bc-4886-4dc1-a166-ddfad3278ca2" alt="Advanced Network console2" width="50%" height="50%"> 
-
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/03aa8ff5-898f-4a0a-b8e4-ea0586aec994" alt="Advanced Network console1" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5895b1bc-4886-4dc1-a166-ddfad3278ca2" alt="Advanced Network console3" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/8ebab488-edf2-4e2f-b6e8-8fac34430b12" alt="Advanced Network console1" width="50%" height="50%"> 
 </p>
 
 ## Using the network
