@@ -40,10 +40,7 @@ Which gives us as a result:
 <p align="center">
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5e57de83-3900-4008-b24c-1a190a765817" alt="Console 2Basic Network" width="50%" height="50%"> 
 </p>
-When you finish using the network, run the following command:
-``` 
-sudo vnx -f mpls-openbsd.xml --destroy
-```
+
 ### Advanced scenario
 To deploy the advanced network you just need to run the next commands:
 ``` 
@@ -87,6 +84,12 @@ Here is the mapping of IP addresses to each system:
 - **CE5**: 172.16.1.5
 
 Feel free to explore the routing tables and configurations to understand the MPLS networking setup in more detail.
+
+### Shutting down the network
+When you finish using the network, run the following command:
+``` 
+sudo vnx -f mpls-openbsd.xml --destroy
+```
 
 ## Acknowledgements
 
