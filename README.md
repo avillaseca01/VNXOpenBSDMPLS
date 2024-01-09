@@ -1,6 +1,6 @@
 # Final degree project: VPLS Implementation with VNX
 
-Welcome to my final degree project. This repository revolves around the implementation of Virtual Private LAN Service (VPLS) using Virtual Networks over Linux (VNX). In this project, I've created simulated networks to study the fundamental configuration and operation of VPLS service in a  Multiprotocol Label Switching (MPLS) network.
+Welcome to my final degree project, this final degree has been done at Escuela Técnica Superior de Ingenieros de Telecomunicación, part of the Universidad Politécnica de Madrid. This repository revolves around the implementation of Virtual Private LAN Service (VPLS) using Virtual Networks over Linux (VNX). In this project, I've created simulated networks to study the fundamental configuration and operation of VPLS service in a  Multiprotocol Label Switching (MPLS) network.
 
 ## Project Overview
 
