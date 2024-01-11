@@ -35,11 +35,9 @@ sudo vnx -f mpls-openbsd.xml -t
 Which gives us as a result:
 <p align="center">
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/f81e3abb-aa1b-452d-9226-063a9121477e" alt="Console 1Basic Network" width="50%" height="50%"> 
-</p>
-<p align="center">
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5e57de83-3900-4008-b24c-1a190a765817" alt="Console 2Basic Network" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/dce054fa-993c-4a91-aaf4-5f9614d7c388" alt="Basic Network consoles" width="50%" height="50%"> 
 </p>
-
 ### Advanced scenario
 To deploy the advanced network you just need to run the next commands:
 ``` 
@@ -54,8 +52,10 @@ Which gives us as a result:
 <p align="center">
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/03aa8ff5-898f-4a0a-b8e4-ea0586aec994" alt="Advanced Network console1" width="50%" height="50%"> 
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5895b1bc-4886-4dc1-a166-ddfad3278ca2" alt="Advanced Network console3" width="50%" height="50%"> 
-<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/8ebab488-edf2-4e2f-b6e8-8fac34430b12" alt="Advanced Network console1" width="50%" height="50%"> 
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/8ebab488-edf2-4e2f-b6e8-8fac34430b12" alt="Advanced Network console1" width="50%" height="50%">
+<img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/bd36d79e-727e-459a-9993-5a8147cfa28c" alt="Advanced Network console1" width="50%" height="50%">
 </p>
+
 
 ## Using the network
 Once you have the network deployed, first you have to log in to every system with user: **root** and password: **xxxx**
