@@ -38,7 +38,9 @@ Which gives us as a result:
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/5e57de83-3900-4008-b24c-1a190a765817" alt="Console 2Basic Network" width="50%" height="50%"> 
 <img src="https://github.com/avillaseca01/VNXOpenBSDMPLS/assets/121334055/dce054fa-993c-4a91-aaf4-5f9614d7c388" alt="Basic Network consoles" width="50%" height="50%"> 
 </p>
+
 ### Advanced scenario
+
 To deploy the advanced network you just need to run the next commands:
 ``` 
 cd mpls-openbsd-advanced
